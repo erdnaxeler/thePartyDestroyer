@@ -1,4 +1,4 @@
-export const questionsArray = [
+const questionsArray = [
 "De qui es-tu amoureux ?",
 "Si tu devais sortir avec quelqu’un de ce groupe, ça serait qui ?",
 "Qui était la première personne que tu as embrassée et quand ?",
@@ -188,4 +188,4 @@ export const questionsArray = [
 "As-tu menti pendant ce jeux ?",
 ];
 
-console.log(questionsArray);
+export default questionsArray;
