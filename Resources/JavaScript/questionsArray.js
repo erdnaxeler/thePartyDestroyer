@@ -140,7 +140,7 @@ export const questionsArray = [
 "Donne une estimation de ton record d’alcoolémie.",
 "As-tu un super-pouvoir ?",
 "En quel animal mérites-tu de te réincarner ?",
-"Es-tu plutôt écouteurs ou casque ?"
+"Es-tu plutôt écouteurs ou casque ?",
 "Pour combien te ferais-tu enculer (maximum 100,000€ ?) ?",
 "Quel est le plus gros bruit que tu aies fait ?",
 "Qu’as-tu bu la fois où tu étais le plus bourré ?",
@@ -187,3 +187,5 @@ export const questionsArray = [
 "Qui a le meilleur goût vestimentaire ?",
 "As-tu menti pendant ce jeux ?",
 ];
+
+console.log(questionsArray);
