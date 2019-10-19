@@ -1,4 +1,5 @@
-import questionsArray from 'questionsArray.js';
+import questionsArray from
+'https://erdnaxeler.github.io/thePartyDestroyer/Resources/JavaScript/questionsArray.js';
 
 console.log(questionsArray.length);
 
