@@ -1,9 +1,10 @@
 import questionsArray from
 'https://erdnaxeler.github.io/thePartyDestroyer/Resources/JavaScript/questionsArray.js';
+import actionsArray from
+'https://erdnaxeler.github.io/thePartyDestroyer/Resources/JavaScript/actionsArray.js';
 
 console.log(questionsArray.length);
 
-//Wait until DOM content is loaded to register events
 //Wait until DOM content is loaded to register events
 window.addEventListener('DOMContentLoaded', registerEvents, false);
 function registerEvents (e) {
