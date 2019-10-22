@@ -22,7 +22,7 @@ const questionsArray = [
 "Quel est l’objet le plus gênant que tu possèdes ?",
 "As-tu déjà pris du viagra ?",
 "Mangeais-tu tes crottes de nez petit ?",
-"As-tu déjà rogné tes ongles d’orteils ?",
+"As-tu déjà rongé tes ongles d’orteils ?",
 "Quel est le truc le plus gênant que tu aies dit à quelqu’un ?",
 "Quel est le plus gros montant d’argent que tu aies perdu ?",
 "Quel est le plus gros pari que tu aies perdu ?",
@@ -50,7 +50,7 @@ const questionsArray = [
 "Si tu devais coucher avec une personnalité politique, ça serait qui ?",
 "As-tu déjà maté ton voisin/ ta voisine ?",
 "As-tu déjà fantasmé sur un héro de BD ou de dessin animé ?",
-"Es-tu déjà entré par quelque part par effraction ?",
+"Es-tu déjà entré quelque part par effraction ?",
 "As-tu déjà mis le feu quelque part ?",
 "As-tu déjà uriné dans un transport en commun ?",
 "As-tu déjà vomi dans un transport en commun ?",
@@ -186,6 +186,14 @@ const questionsArray = [
 "Qui a le pire goût vestimentaire ?",
 "Qui a le meilleur goût vestimentaire ?",
 "As-tu menti pendant ce jeux ?",
+"Quelle a été ta pire expérience avec un extincteur",
+"A partir de combien de bébés avortes-tu?"
+"Quel est le pire truc que tu aies fait à un bébé",
+"A partir de combien ramasserais tu de l'argent dans le canniceau?",
+"Combien d'enfants veux-tu avoir?",
+"As-tu volé un truc dans un hôtel en le quittant?",
+"Quelle est ta croyance la plus ridicule étant petit?",
+"Quel est l'objectif de la vie d'un poil?",
 ];
 
 export default questionsArray;

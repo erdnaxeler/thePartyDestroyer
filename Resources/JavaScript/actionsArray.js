@@ -99,6 +99,7 @@ const actionsArray = [
 "Mime quelqu’un de ton public",
 "Mime un prof",
 "Mime une célébrité ou une personne politique",
+"Parle bien mal de quelqu’un de ton choix pendant 1 minute (moins c'est réussi, plus tu bois",
 ];
 
 document.write(actionsArray);
