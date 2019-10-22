@@ -187,7 +187,7 @@ const questionsArray = [
 "Qui a le meilleur goût vestimentaire ?",
 "As-tu menti pendant ce jeux ?",
 "Quelle a été ta pire expérience avec un extincteur",
-"A partir de combien de bébés avortes-tu?"
+"A partir de combien de bébés avortes-tu?",
 "Quel est le pire truc que tu aies fait à un bébé",
 "A partir de combien ramasserais tu de l'argent dans le canniceau?",
 "Combien d'enfants veux-tu avoir?",
