@@ -102,6 +102,4 @@ const actionsArray = [
 "Parle bien mal de quelqu’un de ton choix pendant 1 minute (moins c'est réussi, plus tu bois",
 ];
 
-document.write(actionsArray);
-
 export default actionsArray;

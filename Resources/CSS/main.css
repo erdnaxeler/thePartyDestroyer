@@ -59,6 +59,7 @@ h2 h3 h4 h5 h6 p {
 	border: solid orange 3px;
 	border-radius: 100%;
 	padding-top: 20px;
+	background-color: white;
 }
 
 
