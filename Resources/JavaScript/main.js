@@ -1,3 +1,4 @@
+//script for creating random questions or actions and displaying them
 import questionsArray from
 'https://erdnaxeler.github.io/thePartyDestroyer/Resources/JavaScript/questionsArray.js';
 import actionsArray from
@@ -40,5 +41,3 @@ function getATruth (e) {
 			};
 
 };
-
-
