@@ -11,6 +11,16 @@ window.addEventListener('DOMContentLoaded', registerEvents, false);
 function registerEvents (e) {
 		document.getElementById("questionDisplay").addEventListener('click', getAnAction, true);
 		document.getElementById("actionDisplay").addEventListener('click', getATruth, true);
+		document.getElementById("rulesBtn").addEventListener("click", displayRules, false);
+		document.getElementById("hideRulesBtn").addEventListener("click", hideRules, false);
+};
+
+function displayRules () {
+	document.getElementById("rulesContainer").style.visibility = visible;
+};
+
+function hideRules () {
+	document.getElementById("rulesContainer").style.visibility = none;
 };
 
 

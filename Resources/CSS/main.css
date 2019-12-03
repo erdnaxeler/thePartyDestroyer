@@ -31,12 +31,35 @@ h2 h3 h4 h5 h6 p {
 	font-family: 'Josefin Sans', sans-serif;
 }
 
-#rules {
+/*-------------rules section---------------*/
+
+#rulesBtn {
 	position: fixed;
 	left: 90%;
 	width: 10%;
 	border: solid green 2px;
 	background-color: purple;
+}
+
+#rulesContainer {
+	width: 80%;
+    height: 80%;
+    position: absolute;
+    display: none;
+    text-align: center;
+    background-color: antiquewhite;
+    left: 10%;
+    bottom: 10%;
+    z-index: 300;
+    border: solid 10px purple
+}
+
+#hideRulesBtn {
+	width: 20%;
+	height: auto;
+	max-height: 10%;
+	border-radius: 0;
+	top: 90%;
 }
 
 
